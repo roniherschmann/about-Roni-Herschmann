@@ -27,7 +27,7 @@ Hello, my name is Roni Herschmann. I studied Computer Science and Business at Co
 - **Landing-page** (HTML/CSS): Customizable landing page template.
 - **Newsletter-API**: Financial newsletter aggregation service.
 
-### Academic Projects (Columbia University)
+### Miscellaneous Stuff
 
 - **GameTheory** (Python, Jupyter): Analysis of game theory, Markov chains, eigenvalues/eigenvectors, and linear regression applied to strategic decision-making.
 - **Prisoners-Dilemma** (Python): Simulation of the Prisoner's Dilemma with configurable strategies, analyzing equilibria using linear algebra concepts.
