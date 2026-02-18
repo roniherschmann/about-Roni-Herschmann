@@ -6,6 +6,9 @@ Hello, my name is Roni Herschmann. I studied Computer Science and Business at Co
 
 - Compliance Tool for Business
 - Expense Report Platform (with web and iOS functionality)
+- Inventory Management
+- Sales Automation
+- Algorithmic Trading
 
 ## Past Projects
 
@@ -36,7 +39,7 @@ Hello, my name is Roni Herschmann. I studied Computer Science and Business at Co
 - **binary-search-tree** (Java): Binary search tree implementation with standard operations.
 - **inversion-counter-java** (Java): Efficient algorithm for counting inversions in arrays.
 - **Python-DS** (Python, Pandas, Jupyter Notebooks): This repo is basically just a compilation of tons of data science projects I had to do for a class with a lot of homework assignments. Some of the key concepts included: Python/pandas/Jupyter for data manipulation; data cleaning, preprocessing, and EDA; ML techniques like classification, regression, clustering, and dimensionality reduction; statistical thinking with probability, hypothesis testing, and model evaluation; data visualization techniques; applications in NLP and time series analysis.
-- **C-Programming** (C): The CS core at Columbia included a very tedious and overkill class on C-programming and operating systems. Notable mentions:
+- **C-Programming** (C): Notable mentions:
   - Built a networked database lookup server using shell scripts, named pipes, and netcat, then wrapped it in a C program that used fork()/exec() to manage multiple server instances and waitpid() with WNOHANG to track child process termination.
   - Built a socket-based database lookup server and an HTTP client in C, where the server wrapped file descriptors with fdopen() to handle client queries over TCP and the client sent HTTP/1.0 GET requests to download files from web servers.
   - Built an HTTP/1.0 web server in C that served static files from a directory and dynamically queried a database backend, using socket programming to handle browser requests and maintain a persistent connection to a lookup server.
