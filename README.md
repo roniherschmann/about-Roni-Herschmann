@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, my name is Roni Herschmann. I studied Computer Science and Business at Columbia University / Tel Aviv University. I have work experience in software engineering, product engineering, and investment banking. All my repositories are private; for more details on my projects, email me at roni.herschmann@columbia.edu.
+Hello, my name is Roni Herschmann. I studied Computer Science and Business at Columbia University / Tel Aviv University. I have work experience in software engineering, product engineering, and investment banking. All my repositories are private; for more details on my projects, email me at roniherschmann@gmail.com
 
 ## Current Projects
 
