@@ -5,12 +5,14 @@ Hello, my name is Roni Herschmann. I studied Computer Science and Business at Co
 ## Current Projects
 
 - Compliance Tool for Business
-- Expense Report Platform (with web and iOS functionality)
-- Inventory Management
-- Sales Automation
-- Algorithmic Trading
+- SECS/GEM  Status Monitoring Platform
 
 ## Past Projects
+
+### Recently Completed
+- Expense Report Platform (with web and iOS functionality)
+- Dynamic Observability Dashboard for Engineers to Measure Productivity Based on Public GitHub Repo Data
+ 
 
 ### AI & Machine Learning
 
