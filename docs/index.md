@@ -6,21 +6,21 @@ Contact: [roniherschmann@gmail.com](mailto:roniherschmann@gmail.com) · [roni.he
 
 Currently, I work as an FDSE at [QualiTau Inc.](https://qualitau.com/), embedded between engineering departments to create innovative software applications that solve hard problems with precision.
 
-Forever curious and happy to learn about new things. Don't hesitate to reach out.
+Forever curious and happy to learn about new things — don't hesitate to reach out.
 
 ## Education
 
-- **B.A. Computer Science; B.A. Business** — Columbia University in the City of New York (2021-Dec. 2025)
-- **M.S. Artificial Intelligence, Robotics & Perception** — Columbia University in the City of New York (Incoming Aug. 2026-May 2027)
+- **B.A. Computer Science; B.A. Business** — Columbia University in the City of New York (2021–Dec. 2025)
+- **M.S. Artificial Intelligence, Robotics & Perception** — Columbia University in the City of New York (Incoming Aug. 2026–May 2027)
 
-## Previous Work
+## Previous work
 
 I have experience across Investment Banking, BioTech, FinTech, and Semiconductor Reliability Testing.
 
-### Internships During Undergrad
+### Internships during undergrad
 
 - Solutions Engineering Intern — QualiTau Inc.
-- Investment Banking, covering deep-tech, software, and all things related to Israel — Jefferies
+- Investment Banking (covered Deep-tech, software, and all things related to Israel) — Jefferies
 - Labs, Technical Marketing, general software development — QualiTau Inc.
 - Product Engineering — Scopio Labs
 
@@ -47,4 +47,3 @@ I'm fluent in English and Hebrew, and I've been playing the drums for over 17 ye
 [X](https://x.com/roniherschmann) (I never post) · [LinkedIn](https://www.linkedin.com/in/roni-h-488aba18b/) · [GitHub](https://github.com/roniherschmann)
 
 Thanks for stopping by.
-

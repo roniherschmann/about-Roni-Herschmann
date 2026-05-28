@@ -1,0 +1,22 @@
+.md-main__inner {
+  max-width: 760px;
+}
+
+.md-content__inner {
+  padding-bottom: 4rem;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.md-typeset h2 {
+  margin-top: 2rem;
+}
+
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.65;
+}
+

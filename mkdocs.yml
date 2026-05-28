@@ -15,13 +15,13 @@ theme:
       primary: black
       accent: blue
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
       primary: black
       accent: blue
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
   font:
     text: Roboto
@@ -45,4 +45,4 @@ extra_css:
 plugins:
   - search
 
-copyright: Copyright &copy; Roni Herschmann
+copyright: "&copy; 2026 Roni Herschmann"
