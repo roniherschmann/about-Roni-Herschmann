@@ -1,71 +1,24 @@
 .md-main__inner {
-  max-width: 960px;
-  margin-top: 0;
+  max-width: 1220px;
 }
 
 .md-content__inner {
-  padding-top: 2.2rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
 }
 
 .md-typeset {
-  font-size: 0.76rem;
-  line-height: 1.52;
+  font-size: 0.8rem;
+  line-height: 1.6;
 }
 
 .md-typeset h1 {
-  font-size: 1.55rem;
   font-weight: 700;
-  margin: 0 0 0.45rem;
 }
 
 .md-typeset h2 {
-  font-size: 1rem;
   font-weight: 700;
-  margin: 1.25rem 0 0.45rem;
 }
 
 .md-typeset h3 {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.78rem;
   font-weight: 600;
-  margin: 0.85rem 0 0.3rem;
-}
-
-.md-typeset p {
-  margin: 0 0 0.55rem;
-}
-
-.md-typeset ul {
-  margin: 0 0 0.6rem;
-  padding-left: 1.25rem;
-}
-
-.md-typeset li {
-  margin-bottom: 0.12rem;
-}
-
-.md-sidebar--secondary {
-  display: none;
-}
-
-.md-content {
-  margin-left: 1.2rem;
-  margin-right: 0;
-}
-
-.md-sidebar--primary {
-  width: 11rem;
-}
-
-.md-sidebar--primary .md-sidebar__scrollwrap {
-  margin-top: 1.6rem;
-}
-
-.md-nav {
-  font-size: 0.68rem;
-}
-
-.md-nav__title {
-  font-size: 0.68rem;
 }
