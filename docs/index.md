@@ -1,6 +1,6 @@
 # Roni Herschmann - Forward Deployed Software Engineer
 
-SF Bay Area
+Currently Based in the SF Bay Area
 
 Contact: [roniherschmann@gmail.com](mailto:roniherschmann@gmail.com) · [roni.herschmann@columbia.edu](mailto:roni.herschmann@columbia.edu)
 
@@ -21,7 +21,7 @@ I have experience across Investment Banking, BioTech, FinTech, and Semiconductor
 
 - Solutions Engineering Intern — QualiTau Inc.
 - Investment Banking (covered Deep-tech, software, and all things related to Israel) — Jefferies
-- Labs, Technical Marketing, general software development — QualiTau Inc.
+- Labs, Technical Marketing, software development engineering — QualiTau Inc.
 - Product Engineering — Scopio Labs
 
 ## Engineering
@@ -30,6 +30,7 @@ I have made real contributions to projects in the following fields:
 
 - ML Applications
 - LLM Fine-tuning / Reinforcement Learning
+- Image Recognition
 - Network Engineering
 - Compliance Automation
 - Full Stack Development
